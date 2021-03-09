@@ -3,7 +3,7 @@
 # Hello World
 
 GitHub: https://github.com/meslenker 
-<a href="Github">https://github.com/meslenker</a>
+<a href="https://github.com/meslenker">Github</a>
 # 
 LinkedIn: https://www.linkedin.com/in/mslenker54/
 # 
