@@ -2,10 +2,10 @@
 
 # Hello World
 
-GitHub: https://github.com/meslenker 
 <a href="https://github.com/meslenker">Github</a>
 # 
-LinkedIn: https://www.linkedin.com/in/mslenker54/
+<a href="https://www.linkedin.com/in/mslenker54/">LinkedIn</a>
 # 
-Personal Domain: https://www.slenkers.com (Currently just redirects to my LinkedIn)
+<a href="https://www.slenkers.com">Personal Domain (Currently just redirects to my LinkedIn)</a>
+
 
